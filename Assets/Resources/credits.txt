@@ -1,0 +1,33 @@
+{
+	"functions" : 
+	[
+		{
+			"title": "Programming",
+			"people": [ "Henrique Dias" ]
+		},
+		{
+			"title": "3D Models",
+			"people": [ "Guilherme Lima" ]
+		},
+		{
+			"title": "Animation",
+			"people": [ "Leandro Motta" ]
+		},
+		{
+			"title": "Special Thanks",
+			"people": [ ]
+		},
+		{
+			"title": "Main Menu and Icon Art",
+			"people": [ "By Sara Ferreira" ]
+		},
+		{
+			"title": "Menu and Credits Song",
+			"people": [ "Bowie's Hair, by Victor Carlos" ]
+		},
+		{
+			"title": "Fight Song",
+			"people": [ "Gonna Fly Now, by Bill Conti", "Remix By ZRK" ]
+		}
+	]
+}
