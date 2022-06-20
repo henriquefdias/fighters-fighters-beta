@@ -15,7 +15,6 @@
   ],
   "category": "2D",
   "dependencies": {
-    "com.unity.mathematics": "1.1.0",
     "com.unity.2d.common": "2.0.2",
     "com.unity.2d.path": "2.0.4"
   },
