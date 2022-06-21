@@ -9,9 +9,7 @@
     "2d"
   ],
   "category": "2D",
-  "dependencies": {
-    "com.unity.2d.sprite": "1.0.0"
-  },
+  "dependencies": {},
   "relatedPackages": {
     "com.unity.2d.common.tests": "2.0.2"
   },
